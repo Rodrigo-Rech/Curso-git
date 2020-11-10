@@ -8,6 +8,7 @@ namespace Teste_Git_Hub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Morning");
+            Console.WriteLine("How you doing today?");
         }
     }
 }
